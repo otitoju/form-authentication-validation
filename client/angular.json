@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-user-registration-and-login-example": {
+    "angular-user-registration-and-login": {
       "projectType": "application",
       "schematics": {},
       "root": "",
